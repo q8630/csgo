@@ -1,0 +1,2 @@
+CSGO 利用原生js模仿
+其中利用到了sweiper和chromagallery插件用来做轮播图
